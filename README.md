@@ -1,5 +1,7 @@
-- Label Studio Object Detection with Bounding Boxes，根据文件夹分类直接生成json文件
+- generate_document_cls_script.py
 ```
+  Label Studio Object Detection with Bounding Boxes，根据文件夹分类直接生成json文件
+
   目录结构: 按照分类建立文件夹
            |--- 身份证
   images---|--- 银行卡
